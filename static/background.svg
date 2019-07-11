@@ -14,7 +14,7 @@
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
-                    <rect id="Rectangle" fill="#2A2A2A" mask="url(#mask-2)" x="-1.00069444" y="0" width="1441" height="1024"></rect>
+                    <rect id="Rectangle" fill="#23262B" mask="url(#mask-2)" x="-1.00069444" y="0" width="1441" height="1024"></rect>
                     <g id="trianglify" opacity="0.082415" mask="url(#mask-2)" fill-rule="nonzero" stroke-width="1.51">
                         <g transform="translate(740.013542, 507.500000) scale(1, -1) translate(-740.013542, -507.500000) translate(-24.016667, -9.000000)" id="Path">
                             <polygon stroke="#9A9A9A" points="823.571528 481.836066 785.055003 451 700.486111 550"></polygon>
@@ -323,10 +323,11 @@
                         </g>
                     </g>
                     <g id="data-clusters-copy" mask="url(#mask-2)">
-                        <g transform="translate(262.865972, 802.500000) scale(-1, 1) translate(-262.865972, -802.500000) translate(-1.634028, 600.000000)">
-                            <ellipse id="Oval" fill="#4FC56F" opacity="0.0367606027" cx="202.640625" cy="202.5" rx="202.640625" ry="202.5"></ellipse>
-                            <ellipse id="Oval-Copy" fill="#4FC56F" opacity="0.0841703869" cx="450.812847" cy="125.5" rx="77.5538194" ry="77.5"></ellipse>
-                            <ellipse id="Oval-Copy-2" fill="#EA8956" opacity="0.0532691592" cx="333.731597" cy="117.5" rx="117.581597" ry="117.5"></ellipse>
+                        <g transform="translate(861.865972, 606.500000) scale(-1, 1) translate(-861.865972, -606.500000) translate(-1.634028, 208.000000)">
+                            <ellipse id="Oval" stroke="none" fill="#4FC56F" opacity="0.0367606027" cx="1400.64062" cy="594.5" rx="202.640625" ry="202.5"></ellipse>
+                            <ellipse id="Oval-Copy" stroke="none" fill="#4FC56F" opacity="0.0841703869" cx="1648.81285" cy="517.5" rx="77.5538194" ry="77.5"></ellipse>
+                            <ellipse id="Oval-Copy-2" stroke="none" fill="#EA8956" opacity="0.0532691592" cx="1531.7316" cy="509.5" rx="117.581597" ry="117.5"></ellipse>
+                            <ellipse id="Oval-Copy-3" stroke="#979797" stroke-width="1" fill="#5084EA" opacity="0.039717" cx="322.365972" cy="321.5" rx="322" ry="321.5"></ellipse>
                         </g>
                     </g>
                 </g>
